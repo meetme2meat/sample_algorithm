@@ -44,7 +44,7 @@ require 'set'
 require 'pry'
 require 'benchmark'
 class TestCase
-  attr_accessor :numbers,:sets
+  attr_reader :numbers,:sets
   def initialize(numbers)
     @numbers = numbers.sort
     @sets = []
