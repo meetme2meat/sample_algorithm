@@ -1,4 +1,3 @@
-## who is the committer
 # All submissions for this problem are available.
 
 # Let A be a set of the first N positive integers :A={1,2,3,4.........N}
